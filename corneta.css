@@ -1,0 +1,17 @@
+h1{
+    font-size: bolder;
+}
+.corneta{
+    border: solid 2px forestgreen;
+    border-radius: 10px;
+    font-family: serif;
+}
+.corneta2{
+    border: solid 2px forestgreen;
+    border-radius: 10px;
+    font-family: serif;
+}
+body{
+    background-color: lemonchiffon;
+    text-align: center;
+}
